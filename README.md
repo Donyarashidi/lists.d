@@ -13,11 +13,24 @@ Knowledge is Free!
 
 ##  FAQ
 ### Why call it lists.d ?
-Simple: Because these are lists intended to be kept in a directory for the user to use as needed.
-In fact, you may even make your own based off the format ( I recommend to give them the extension .private.tsv to avoid confusion.)
+-   Simple: Because these are lists intended to be kept in a directory for the user to use as needed.
+-   In fact, you may even make your own based off the format ( I recommend to give them the extension .private.tsv to avoid confusion.)
 
 ### Why make this ?
-For a lot of tutorials and tools it might be vital to supply some source of legitimate data ( like IMEI and MAC adresses ) yet endorsing dubiously sourced data is bad and I'd rather provide everyone with a clean set of already long-public data instead.
+-   For a lot of tutorials and tools it might be vital to supply some source of legitimate data ( like IMEI and MAC adresses ) yet endorsing dubiously sourced data is bad and I'd rather provide everyone with a clean set of already long-public data instead.
+-   I then collected further ideas and datapoints one could want.
+
+### What data is currently included?
+As of now the following data is in seperate files:
+-   BitTorent Trackers
+-   DNS Servers
+-   "Don't Report Security Issues To"  - List
+-   IMEI Numbers
+-   IRC Networks
+-   MAC Adresses (EUI-48 - only for 802/Ethernet and compatible networks)
+-   NTP Servers
+-   Onion Services (bona-fide only!)
+-   USB Devices
 
 ### How can I contribute?
 Just open up an issue or make a pull request.
