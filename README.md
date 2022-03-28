@@ -23,6 +23,7 @@ Knowledge is Free!
 ### What data is currently included?
 As of now the following data is in seperate files:
 -   BitTorent Trackers
+-   Blocklist (IPv4 & IPv6 - Ranges / ASNs / Domains)
 -   DNS Servers
 -   "Don't Report Security Issues To"  - List
 -   IMEI Numbers
