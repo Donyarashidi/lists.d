@@ -26,8 +26,10 @@ As of now the following data is in seperate files:
 -   Blocklist (IPv4 & IPv6 - Ranges / ASNs / Domains)
 -   DNS Servers
 -   "Don't Report Security Issues To"  - List
+-   Homebrew (Software & Games for Consoles)
 -   IMEI Numbers
 -   IRC Networks
+-   Logins (User/Password Combos)
 -   MAC Adresses (EUI-48 - only for 802/Ethernet and compatible networks)
 -   NTP Servers
 -   Onion Services (bona-fide only!)
