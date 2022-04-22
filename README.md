@@ -24,6 +24,7 @@ Knowledge is Free!
 As of now the following data is in seperate files:
 -   BitTorent Trackers
 -   Blocklist (IPv4 & IPv6 - Ranges / ASNs / Domains)
+-   Default Logins
 -   DNS Servers
 -   "Don't Report Security Issues To"  - List
 -   Homebrew (Software & Games for Consoles)
