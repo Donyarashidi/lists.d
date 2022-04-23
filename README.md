@@ -22,19 +22,19 @@ Knowledge is Free!
 
 ### What data is currently included?
 As of now the following data is in seperate files:
--   [BitTorrent Trackers][https://github.com/greyhat-academy/lists.d/blob/main/bittorent-trackers.list.tsv]
--   Blocklist (IPv4 & IPv6 - Ranges / ASNs / Domains)
--   Default Logins
--   DNS Servers
--   "Don't Report Security Issues To"  - List
--   Homebrew (Software & Games for Consoles)
--   IMEI Numbers
--   IRC Networks
--   Logins (User/Password Combos)
--   MAC Adresses (EUI-48 - only for 802/Ethernet and compatible networks)
--   NTP Servers
--   Onion Services (bona-fide only!)
--   USB Devices
+-   [BitTorrent Trackers](https://github.com/greyhat-academy/lists.d/blob/main/bittorent-trackers.list.tsv)
+-   [Blocklist (IPv4 & IPv6 - Ranges / ASNs / Domains)](https://github.com/greyhat-academy/lists.d/blob/main/blocklists.list.tsv)
+-   [Default Logins](https://github.com/greyhat-academy/lists.d/blob/main/default-logins.tsv)
+-   [DNS Servers](https://github.com/greyhat-academy/lists.d/blob/main/dns-servers.list.tsv)
+-   ["Don't Report Security Issues To"  - List](https://github.com/greyhat-academy/lists.d/blob/main/dontreport.security.list.tsv)
+-   [Homebrew (Software & Games for Consoles)](https://github.com/greyhat-academy/lists.d/blob/main/homebrew.list.tsv)
+-   [IMEI Numbers](https://github.com/greyhat-academy/lists.d/blob/main/imei.list.tsv)
+-   [IRC Networks](https://github.com/greyhat-academy/lists.d/blob/main/irc-networks.list.tsv)
+-   [Logins (User/Password Combos)](https://github.com/greyhat-academy/lists.d/blob/main/logins.list.tsv)
+-   [MAC Adresses (EUI-48 - only for 802/Ethernet and compatible networks)](https://github.com/greyhat-academy/lists.d/blob/main/mac-adresses.list.tsv)
+-   [NTP Servers](https://github.com/greyhat-academy/lists.d/blob/main/ntp-servers.list.tsv)
+-   [Onion Services (bona-fide only!)](https://github.com/greyhat-academy/lists.d/blob/main/onion.list.tsv)
+-   [USB Devices](https://github.com/greyhat-academy/lists.d/blob/main/usb-devices.list.tsv)
 
 ### How can I contribute?
 Just open up an issue or make a pull request.
