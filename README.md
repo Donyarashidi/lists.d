@@ -22,7 +22,7 @@ Knowledge is Free!
 
 ### What data is currently included?
 As of now the following data is in seperate files:
--   BitTorent Trackers
+-   [BitTorrent Trackers][https://github.com/greyhat-academy/lists.d/blob/main/bittorent-trackers.list.tsv]
 -   Blocklist (IPv4 & IPv6 - Ranges / ASNs / Domains)
 -   Default Logins
 -   DNS Servers
