@@ -37,11 +37,10 @@ As of now the following data is in seperate files:
 -   [USB Devices](https://github.com/greyhat-academy/lists.d/blob/main/usb-devices.list.tsv)
 
 ### How can I contribute?
-Just open up an issue or make a pull request.
+Just [open up an issue](https://github.com/greyhat-academy/lists.d/issues) or [make a pull request.](https://github.com/greyhat-academy/lists.d/pulls)
 
 ### What license do you use?
-CC BY-NC-SA 4.0.
-See license.md
+[CC BY-NC-SA 4.0. - See license.md](https://github.com/greyhat-academy/lists.d/blob/main/irc-networks.list.tsv)
 
 ### Why use TSVs instead of CSVs?
 1.  [Because Tabs are superior to spaces](https://youtu.be/V7PLxL8jIl8?t=23)
