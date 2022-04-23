@@ -44,7 +44,7 @@ CC BY-NC-SA 4.0.
 See license.md
 
 ### Why use TSVs instead of CSVs?
-1.  Because Tabs are superior to spaces: https://youtu.be/V7PLxL8jIl8?t=23
+1.  [Because Tabs are superior to spaces](https://youtu.be/V7PLxL8jIl8?t=23)
 2.  Because I need to use spaces inside fields
 3.  Because I hate using seperators like " " or ' '
 4.  Because I can and it's my project.
