@@ -60,4 +60,5 @@ There can be one or multiple reasons:
 -   Your submission is not available on the clear web.
 -   Your submission discriminates based off the UserAgent of the browser or program used to access it.
 
-
+### How can I download this?
+Click [here](https://github.com/greyhat-academy/lists.d/archive/refs/heads/main.zip) to download the entire repo as a zip.
